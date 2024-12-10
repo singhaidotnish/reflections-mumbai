@@ -18,3 +18,5 @@ https://stackoverflow.com/questions/27437733/use-external-python-script-to-open-
 
 https://stackoverflow.com/questions/58169545/how-to-add-a-eventfilter-in-maya
 
+https://stackoverflow.com/questions/4100139/pyqt-qtreeview-want-to-expand-collapse-all-children-and-grandchildren/68372315#68372315
+
