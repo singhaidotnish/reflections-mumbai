@@ -15,3 +15,6 @@ https://stackoverflow.com/questions/8786136/pyqt-how-to-detect-and-close-ui-if-i
 https://stackoverflow.com/questions/40083308/python-how-to-redirect-maya-history
 
 https://stackoverflow.com/questions/27437733/use-external-python-script-to-open-maya-and-run-another-script-inside-maya
+
+https://stackoverflow.com/questions/58169545/how-to-add-a-eventfilter-in-maya
+
