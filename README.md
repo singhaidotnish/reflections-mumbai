@@ -13,3 +13,5 @@ https://justinfx.com/2011/11/20/mixing-pyqt4-widgets-and-maya-ui-objects/
 https://stackoverflow.com/questions/8786136/pyqt-how-to-detect-and-close-ui-if-its-already-running
 
 https://stackoverflow.com/questions/40083308/python-how-to-redirect-maya-history
+
+https://stackoverflow.com/questions/27437733/use-external-python-script-to-open-maya-and-run-another-script-inside-maya
